@@ -6,6 +6,7 @@ An optimized maze searching algorithm using astar search
 ./MazeExplorer gird_file x1 y1 x2 y2
 
 details:
+
 grid_file: a text file consisting of 1s and 0s, with 1s indicating obstacles and 0s indicating pathes
 
 x1, y1: the starting column and row values
@@ -24,7 +25,11 @@ If a path can be found:
 "actions taken (e.g. LRLLD")
 
 details:
+
 L:left
+
 R:right
+
 U:up
+
 D:down
