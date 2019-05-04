@@ -17,11 +17,15 @@ x2, y2: the goal column and row values
 2. What is the output format?
 
 If a path cannot be found:
+
 "num of nodes explored", "total cost=0"
+
 "X"
 
 If a path can be found:
+
 "num of nodes explored", "total cost"
+
 "actions taken (e.g. LRLLD")
 
 details:
