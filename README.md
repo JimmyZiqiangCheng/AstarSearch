@@ -7,7 +7,9 @@ An optimized maze searching algorithm using astar search
 
 details:
 grid_file: a text file consisting of 1s and 0s, with 1s indicating obstacles and 0s indicating pathes
+
 x1, y1: the starting column and row values
+
 x2, y2: the goal column and row values
 
 
