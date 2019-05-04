@@ -1,3 +1,9 @@
+
+# Astar search implementation with python 3
+
+# Author: Jimmy Ziqiang Cheng
+# Date: 2, May, 2019
+
 import sys
 import copy 
 
